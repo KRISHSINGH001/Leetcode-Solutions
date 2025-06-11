@@ -49,8 +49,11 @@ Every solution includes:
 
 | Date       | Problem Name         | Difficulty | Status  |
 |------------|----------------------|------------|---------|
-| 2025-06-07 | Plindrome number     | Easy    | 🔄 In Progress |
-| ...        | ...                  | ...        | ...     |
+| 2025-06-07 | Plindrome number     | Easy    | Completed  |
+| 2025-06-011| Harshad number       | Easy    | Completed  | 
+| 2025-06-011| Uglynumber           | Easy    | Completed  | 
+
+
 
 ---
 
